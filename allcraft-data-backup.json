@@ -1,0 +1,264 @@
+{
+  "version": "1.0",
+  "lastSaved": "2026-04-24T10:59:00.945Z",
+  "hero": {
+    "heroLine1": "We Build",
+    "heroHighlight": "Digital",
+    "heroLine2": "Empires.",
+    "heroSub": "A bold marketing agency for brands that refuse to be quiet. We combine pixel-perfect design with brutalist strategy.",
+    "instagram": "#",
+    "facebook": "#",
+    "whatsapp": "919475037276",
+    "linkedin": "#",
+    "email": "allcraftseen@gmail.com",
+    "phone": "+91 9475037276",
+    "address": "123 Business Street, City, State",
+    "startingPrice": "1500",
+    "socialLinks": [
+      {
+        "id": "1",
+        "platform": "Instagram",
+        "url": "#"
+      },
+      {
+        "id": "2",
+        "platform": "Facebook",
+        "url": "#"
+      }
+    ]
+  },
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Brand Launch Campaign",
+      "category": "Paid Ads",
+      "link": "#",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600",
+          "type": "image"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600",
+          "type": "image"
+        }
+      ],
+      "description": "340% increase in leads in 30 days",
+      "startingPrice": 1500,
+      "hasLiveUrl": false,
+      "liveUrl": "",
+      "liveButtonLabel": "VIEW LIVE PROJECT ↗"
+    },
+    {
+      "id": 2,
+      "title": "E-Commerce Website",
+      "category": "Web Design",
+      "link": "#",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600",
+          "type": "image"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=600",
+          "type": "image"
+        }
+      ],
+      "description": "Full Shopify store with custom design",
+      "startingPrice": 1500,
+      "hasLiveUrl": false,
+      "liveUrl": "",
+      "liveButtonLabel": "VIEW LIVE PROJECT ↗"
+    },
+    {
+      "id": 3,
+      "title": "Restaurant SEO",
+      "category": "SEO",
+      "link": "#",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600",
+          "type": "image"
+        }
+      ],
+      "description": "Page 1 rankings in 60 days",
+      "startingPrice": 1500,
+      "hasLiveUrl": false,
+      "liveUrl": "",
+      "liveButtonLabel": "VIEW LIVE PROJECT ↗"
+    },
+    {
+      "id": 4,
+      "title": "Real Estate Ads",
+      "category": "Paid Ads",
+      "link": "#",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=600",
+          "type": "image"
+        }
+      ],
+      "description": "127 qualified leads in first month",
+      "startingPrice": 1500,
+      "hasLiveUrl": false,
+      "liveUrl": "",
+      "liveButtonLabel": "VIEW LIVE PROJECT ↗"
+    },
+    {
+      "id": 5,
+      "title": "Fashion Brand Identity",
+      "category": "Branding",
+      "link": "#",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=600",
+          "type": "image"
+        }
+      ],
+      "description": "Complete visual identity system",
+      "startingPrice": 1500,
+      "hasLiveUrl": false,
+      "liveUrl": "",
+      "liveButtonLabel": "VIEW LIVE PROJECT ↗"
+    },
+    {
+      "id": 6,
+      "title": "SaaS Landing Page",
+      "category": "Web Design",
+      "link": "#",
+      "images": [
+        {
+          "url": "https://images.unsplash.com/photo-1551650975-87deedd944c3?w=600",
+          "type": "image"
+        }
+      ],
+      "description": "4.2% conversion rate achieved",
+      "startingPrice": 1500,
+      "hasLiveUrl": false,
+      "liveUrl": "",
+      "liveButtonLabel": "VIEW LIVE PROJECT ↗"
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "name": "Ankit Sharmaasa",
+      "role": "Web Developer and Designer",
+      "bio": "Designs and develops refined digital experiences with a focus on performance, aesthetics, and usability. Specializes in building modern, conversion-driven websites that elevate brands.",
+      "image": "https://plain-apac-prod-public.komododecks.com/202604/22/53XClwadJECnX6iCN6NM/image.jpg",
+      "floatingImageUrl": "https://plain-apac-prod-public.komododecks.com/202604/22/53XClwadJECnX6iCN6NM/image.jpg",
+      "socials": [
+        {
+          "label": "LinkedIn",
+          "url": "#",
+          "type": "linkedin"
+        },
+        {
+          "label": "Instagram",
+          "url": "#",
+          "type": "instagram"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Atri Das",
+      "role": "Marketing and Content Designer ",
+      "bio": "Drives brand growth through strategic content and performance-focused marketing. Blends creativity with data to build scalable digital presence and high-converting campaigns.",
+      "image": "https://plain-apac-prod-public.komododecks.com/202604/22/B2JoBHEk7zhaxe9IKqgo/image.jpg",
+      "floatingImageUrl": "https://plain-apac-prod-public.komododecks.com/202604/22/B2JoBHEk7zhaxe9IKqgo/image.jpg",
+      "socials": [
+        {
+          "label": "LinkedIn",
+          "url": "#",
+          "type": "linkedin"
+        },
+        {
+          "label": "Portfolio",
+          "url": "#",
+          "type": "portfolio"
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "stars": 5,
+      "text": "Leads increased by 340% in just 30 days!",
+      "name": "Dr. Rajesh Sharma",
+      "business": "Apollo Family Clinic, Delhi",
+      "visible": true,
+      "mediaUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800",
+      "mediaType": "image"
+    },
+    {
+      "id": 2,
+      "stars": 5,
+      "text": "Our online sales doubled within 3 weeks. The strategy was flawless.",
+      "name": "Priya Mehta",
+      "business": "Mehta Sarees, Surat",
+      "visible": true,
+      "mediaUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+      "mediaType": "video"
+    }
+  ],
+  "services": {
+    "weDo": [
+      "Paid Ads",
+      "Web Design",
+      "Branding",
+      "Social Media",
+      "SEO",
+      "Email Marketing"
+    ],
+    "weDont": [
+      "Cheap Logos",
+      "Generic Packages",
+      "No-Brief Work",
+      "Guaranteed Virality",
+      "Rush Projects"
+    ]
+  },
+  "mappings": [
+    {
+      "projectId": 1,
+      "mainService": "Ads & Digital Marketing",
+      "subServices": [
+        "Facebook Ads",
+        "Google Ads",
+        "Lead Gen"
+      ]
+    },
+    {
+      "projectId": 4,
+      "mainService": "AI Automation",
+      "subServices": [
+        "AI Chatbots",
+        "NBN",
+        "Automation"
+      ]
+    },
+    {
+      "projectId": 2,
+      "mainService": "Web Development",
+      "subServices": [
+        "React",
+        "Shopify",
+        "Brutalist UI"
+      ]
+    }
+  ],
+  "socialLinks": [
+    {
+      "id": "1",
+      "platform": "Instagram",
+      "url": "#"
+    },
+    {
+      "id": "2",
+      "platform": "Facebook",
+      "url": "#"
+    }
+  ]
+}
